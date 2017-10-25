@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/claudineyjr/simple-node-api#readme",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^4.16.2",
     "nodemon": "^1.12.1"
   }
