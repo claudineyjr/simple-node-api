@@ -1,0 +1,30 @@
+{
+  "name": "simple-node-api",
+  "version": "1.0.0",
+  "description": "Uma API simples com node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudineyjr/simple-node-api.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "simple",
+    "express",
+    "caquicoders"
+  ],
+  "author": "Claudiney Junior <claudiney.jr@caquicoders.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyjr/simple-node-api/issues"
+  },
+  "homepage": "https://github.com/claudineyjr/simple-node-api#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  }
+}
